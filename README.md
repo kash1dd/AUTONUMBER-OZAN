@@ -26,7 +26,7 @@
 
 ## Запуск
 
-1.  Установите необходимые зависимости (список будет уточнен, предположительно `customtkinter`, `CTkMessagebox`, `pyperclip`, `aiohttp`).
+1.  Установите необходимые зависимости (`customtkinter`, `CTkMessagebox`, `pyperclip`, `aiohttp`).
 2.  Запустите приложение, выполнив:
     ```bash
     python main.py 
@@ -44,5 +44,3 @@
 *   pyperclip
 *   aiohttp
 *   winsound (стандартная библиотека Windows)
-
-*(Примечание: Список зависимостей может быть неполным.)* 
